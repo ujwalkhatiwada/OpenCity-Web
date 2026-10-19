@@ -1,6 +1,3 @@
-# OpenCity-Web
-OpenCity Web: an experimental open-world city sandbox in your browser, powered by WebAssembly and WebGPU.
-
 # OpenCity Web
 
 An experimental open-world city sandbox that runs entirely in your browser, built with WebAssembly and WebGPU.
